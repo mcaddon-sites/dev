@@ -1,0 +1,143 @@
+[
+  {
+    "text": "FTB Quests",
+    "items": [
+      {
+        "text": "Overview",
+        "link": "./overview"
+      },
+      {
+        "text": "Create Chapter",
+        "link": "./create-chapter"
+      },
+      {
+        "text": "Add Quests",
+        "link": "./add-quests"
+      },
+      {
+        "text": "Commit Chapter",
+        "link": "./commit-chapter"
+      },
+      {
+        "text": "Rewards",
+        "collapsed": false,
+        "items": [
+          {
+            "text": "Reward Types",
+            "link": "./rewards/"
+          },
+          {
+            "text": "command",
+            "link": "./rewards/command"
+          },
+          {
+            "text": "item",
+            "link": "./rewards/item"
+          },
+          {
+            "text": "loot_table",
+            "link": "./rewards/loot_table"
+          },
+          {
+            "text": "xp",
+            "link": "./rewards/xp"
+          }
+        ]
+      },
+      {
+        "text": "Tasks",
+        "collapsed": false,
+        "items": [
+          {
+            "text": "Task Types",
+            "link": "./tasks/"
+          },
+          {
+            "text": "biome_visited",
+            "link": "./tasks/biome_visited"
+          },
+          {
+            "text": "block_break",
+            "link": "./tasks/block_break"
+          },
+          {
+            "text": "deal_damage",
+            "link": "./tasks/deal_damage"
+          },
+          {
+            "text": "effect_active",
+            "link": "./tasks/effect_active"
+          },
+          {
+            "text": "fall_distance",
+            "link": "./tasks/fall_distance"
+          },
+          {
+            "text": "item_collected",
+            "link": "./tasks/item_collected"
+          },
+          {
+            "text": "item_use",
+            "link": "./tasks/item_use"
+          },
+          {
+            "text": "item_use_complete",
+            "link": "./tasks/item_use_complete"
+          },
+          {
+            "text": "item_use_on",
+            "link": "./tasks/item_use_on"
+          },
+          {
+            "text": "kill",
+            "link": "./tasks/kill"
+          },
+          {
+            "text": "location",
+            "link": "./tasks/location"
+          },
+          {
+            "text": "place_block",
+            "link": "./tasks/place_block"
+          },
+          {
+            "text": "player_interact_with_block",
+            "link": "./tasks/player_interact_with_block"
+          },
+          {
+            "text": "player_interact_with_entity",
+            "link": "./tasks/player_interact_with_entity"
+          },
+          {
+            "text": "player_look_at_block",
+            "link": "./tasks/player_look_at_block"
+          },
+          {
+            "text": "player_look_at_entity",
+            "link": "./tasks/player_look_at_entity"
+          },
+          {
+            "text": "player_riding_entity",
+            "link": "./tasks/player_riding_entity"
+          },
+          {
+            "text": "projectile_hit_block",
+            "link": "./tasks/projectile_hit_block"
+          },
+          {
+            "text": "step_on_block",
+            "link": "./tasks/step_on_block"
+          },
+          {
+            "text": "visit_dimension",
+            "link": "./tasks/visit_dimension"
+          },
+          {
+            "text": "xp",
+            "link": "./tasks/xp"
+          }
+        ]
+      }
+    ]
+  }
+]

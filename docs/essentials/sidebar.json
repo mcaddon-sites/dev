@@ -1,0 +1,23 @@
+[
+  {
+    "text": "Essentials",
+    "items": [
+      {
+        "text": "Overview",
+        "link": "./overview"
+      },
+      {
+        "text": "Tree Breaker",
+        "link": "./tree-breaker"
+      },
+      {
+        "text": "Ore Breaker",
+        "link": "./ore-breaker"
+      },
+      {
+        "text": "Crop Harvester",
+        "link": "./crop-harvester"
+      }
+    ]
+  }
+]

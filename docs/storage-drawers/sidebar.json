@@ -1,0 +1,19 @@
+[
+  {
+    "text": "Storage Drawers",
+    "items": [
+      {
+        "text": "Overview",
+        "link": "./overview"
+      },
+      {
+        "text": "Compacting Recipe",
+        "link": "./compacting-recipe"
+      },
+      {
+        "text": "Drawer Manipulation",
+        "link": "./drawer-manipulation"
+      }
+    ]
+  }
+]

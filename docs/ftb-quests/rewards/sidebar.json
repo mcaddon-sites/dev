@@ -1,0 +1,27 @@
+[
+  {
+    "text": "Reward Types",
+    "items": [
+      {
+        "text": "Overview",
+        "link": "./"
+      },
+      {
+        "text": "Command",
+        "link": "./command"
+      },
+      {
+        "text": "Item",
+        "link": "./item"
+      },
+      {
+        "text": "Loot Table",
+        "link": "./loot_table"
+      },
+      {
+        "text": "XP",
+        "link": "./xp"
+      }
+    ]
+  }
+]

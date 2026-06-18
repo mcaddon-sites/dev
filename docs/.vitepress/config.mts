@@ -1,0 +1,58 @@
+import { defineConfig } from "vitepress";
+
+import { nav } from "./nav";
+import { sidebar } from "./sidebar";
+
+const year = new Date().getFullYear();
+
+// https://vitepress.dev/reference/site-config
+export default defineConfig({
+  title: "mcaddon.dev",
+  description: "desc",
+  head: [
+    // Favicons
+    ["link", { rel: "icon", href: "/favicon.ico", sizes: "48x48" }],
+    ["link", { rel: "icon", href: "/favicon.svg", type: "image/svg+xml" }],
+    ["link", { rel: "icon", href: "/favicon-96x96.png", type: "image/png", sizes: "96x96" }],
+    ["link", { rel: "apple-touch-icon", href: "/apple-touch-icon.png", sizes: "180x180" }],
+
+    // Manifest
+    ["link", { rel: "manifest", href: "/site.webmanifest" }],
+
+    // Global SEO
+    ["meta", { name: "theme-color", content: "#55d947" }],
+    ["meta", { property: "og:type", content: "website" }],
+    ["meta", { property: "og:url", content: "https://mcaddon.dev/" }],
+    ["meta", { property: "og:locale", content: "en" }],
+    ["meta", { property: "og:image", content: "/images/logo.webp" }],
+
+    ["meta", { property: "twitter:card", content: "summary_large_image" }],
+    ["meta", { property: "twitter:url", content: "https://mcaddon.dev/" }],
+    ["meta", { property: "twitter:image", content: "/images/logo.webp" }],
+  ],
+  cleanUrls: true,
+  markdown: {
+    breaks: true,
+  },
+  sitemap: {
+    hostname: "https://mcaddon.dev/",
+  },
+  themeConfig: {
+    // https://vitepress.dev/reference/default-theme-config
+    nav,
+    sidebar,
+    lastUpdated: {},
+    logo: { src: "/images/logo.webp", alt: "Logo" },
+    footer: {
+      copyright: year.toString(),
+      message: "Not associated with or approved by Mojang Studios or Microsoft",
+    },
+    search: {
+      provider: "local",
+    },
+    editLink: {
+      pattern: "https://github.com/mcaddon-sites/docs/edit/main/docs/:path",
+    },
+    socialLinks: [{ icon: "github", link: "https://github.com/mcaddon-sites" }],
+  },
+});

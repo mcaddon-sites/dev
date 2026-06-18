@@ -1,0 +1,21 @@
+---
+title: ftb_quest:effect_active | FTB Quests
+description: Triggers while the named effect is active.
+---
+
+# ftb_quest:effect_active
+
+Triggers while the named effect is active.
+
+| Name     | Type   | Required | Description |
+| -------- | ------ | -------- | ----------- |
+| `effect` | string | yes      |             |
+
+## Example
+
+```json
+{
+  "type": "ftb_quest:effect_active",
+  "effect": "minecraft:haste"
+}
+```

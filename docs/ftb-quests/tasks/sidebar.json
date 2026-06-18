@@ -1,0 +1,95 @@
+[
+  {
+    "text": "Task Types",
+    "items": [
+      {
+        "text": "Overview",
+        "link": "./"
+      },
+      {
+        "text": "Biome Visited",
+        "link": "./biome_visited"
+      },
+      {
+        "text": "Block Break",
+        "link": "./block_break"
+      },
+      {
+        "text": "Deal Damage",
+        "link": "./deal_damage"
+      },
+      {
+        "text": "Effect Active",
+        "link": "./effect_active"
+      },
+      {
+        "text": "Fall Distance",
+        "link": "./fall_distance"
+      },
+      {
+        "text": "Item Collected",
+        "link": "./item_collected"
+      },
+      {
+        "text": "Item Use",
+        "link": "./item_use"
+      },
+      {
+        "text": "Item Use Complete",
+        "link": "./item_use_complete"
+      },
+      {
+        "text": "Item Use On",
+        "link": "./item_use_on"
+      },
+      {
+        "text": "Kill",
+        "link": "./kill"
+      },
+      {
+        "text": "Location",
+        "link": "./location"
+      },
+      {
+        "text": "Place Block",
+        "link": "./place_block"
+      },
+      {
+        "text": "Player Interact With Block",
+        "link": "./player_interact_with_block"
+      },
+      {
+        "text": "Player Interact With Entity",
+        "link": "./player_interact_with_entity"
+      },
+      {
+        "text": "Player Look At Block",
+        "link": "./player_look_at_block"
+      },
+      {
+        "text": "Player Look At Entity",
+        "link": "./player_look_at_entity"
+      },
+      {
+        "text": "Player Riding Entity",
+        "link": "./player_riding_entity"
+      },
+      {
+        "text": "Projectile Hit Block",
+        "link": "./projectile_hit_block"
+      },
+      {
+        "text": "Step On Block",
+        "link": "./step_on_block"
+      },
+      {
+        "text": "Visit Dimension",
+        "link": "./visit_dimension"
+      },
+      {
+        "text": "XP",
+        "link": "./xp"
+      }
+    ]
+  }
+]

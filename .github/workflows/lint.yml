@@ -1,0 +1,22 @@
+name: Lint
+description: Lint and build the project to check for errors.
+on:
+  pull_request:
+    branches: [develop]
+  push:
+    branches: [develop]
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Install modules
+        run: npm ci
+
+      - name: Run ESLint
+        run: npm run lint
+
+      - name: Run build
+        run: npm run build
