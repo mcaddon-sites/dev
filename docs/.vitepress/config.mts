@@ -8,7 +8,7 @@ const year = new Date().getFullYear();
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "mcaddon.dev",
-  description: "desc",
+  description: "Script events, compatibility tags, and examples for Marketplace add-ons.",
   head: [
     // Favicons
     ["link", { rel: "icon", href: "/favicon.ico", sizes: "48x48" }],
@@ -51,7 +51,7 @@ export default defineConfig({
       provider: "local",
     },
     editLink: {
-      pattern: "https://github.com/mcaddon-sites/docs/edit/main/docs/:path",
+      pattern: "https://github.com/mcaddon-sites/dev/edit/main/docs/:path",
     },
     socialLinks: [{ icon: "github", link: "https://github.com/mcaddon-sites" }],
   },
