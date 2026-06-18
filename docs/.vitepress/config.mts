@@ -1,9 +1,45 @@
-import { defineConfig } from "vitepress";
+import { defineConfig, type HeadConfig } from "vitepress";
 
 import { nav } from "./nav";
 import { sidebar } from "./sidebar";
 
 const year = new Date().getFullYear();
+const siteUrl = "https://mcaddon.dev";
+
+interface HeroImageFrontmatter {
+  hero?: {
+    image?: {
+      alt?: string;
+      src?: string;
+    };
+    name?: string;
+  };
+}
+
+function absoluteSiteUrl(path: string): string {
+  if (/^https?:\/\//.test(path)) {
+    return path;
+  }
+
+  return `${siteUrl}${path.startsWith("/") ? path : `/${path}`}`;
+}
+
+function heroImageHead(frontmatter: HeroImageFrontmatter): HeadConfig[] {
+  const image = frontmatter.hero?.image;
+
+  if (!image?.src) {
+    return [];
+  }
+
+  const imageUrl = absoluteSiteUrl(image.src);
+  const imageAlt = image.alt ?? (frontmatter.hero?.name ? `${frontmatter.hero.name} hero image` : "Page hero image");
+
+  return [
+    ["meta", { property: "og:image", content: imageUrl }],
+    ["meta", { property: "og:image:alt", content: imageAlt }],
+    ["meta", { property: "twitter:image", content: imageUrl }],
+  ];
+}
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -36,6 +72,9 @@ export default defineConfig({
   },
   sitemap: {
     hostname: "https://mcaddon.dev/",
+  },
+  transformHead({ pageData }) {
+    return heroImageHead(pageData.frontmatter);
   },
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
