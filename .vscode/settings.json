@@ -3,5 +3,25 @@
   "markdownlint.config": {
     "no-inline-html": false,
     "first-line-h1": false
-  }
+  },
+  "workbench.colorCustomizations": {
+    "activityBar.activeBackground": "#62d151",
+    "activityBar.background": "#62d151",
+    "activityBar.foreground": "#15202b",
+    "activityBar.inactiveForeground": "#15202b99",
+    "activityBarBadge.background": "#6877d7",
+    "activityBarBadge.foreground": "#e7e7e7",
+    "commandCenter.border": "#15202b99",
+    "sash.hoverBorder": "#62d151",
+    "statusBar.background": "#44bd32",
+    "statusBar.foreground": "#15202b",
+    "statusBarItem.hoverBackground": "#359527",
+    "statusBarItem.remoteBackground": "#44bd32",
+    "statusBarItem.remoteForeground": "#15202b",
+    "titleBar.activeBackground": "#44bd32",
+    "titleBar.activeForeground": "#15202b",
+    "titleBar.inactiveBackground": "#44bd3299",
+    "titleBar.inactiveForeground": "#15202b99"
+  },
+  "peacock.color": "#44bd32"
 }
