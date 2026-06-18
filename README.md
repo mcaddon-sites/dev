@@ -2,12 +2,6 @@
 
 Documentation for Minecraft Marketplace add-on integrations, including script events, compatibility tags, examples, and quick references for supported add-ons.
 
-## Supported Add-ons
-
-- FTB Quests (`ftb_quests`)
-- Storage Drawers (`ftb_sd`)
-- Essentials (`ulkd_ess`)
-
 ## Development
 
 Install dependencies:
