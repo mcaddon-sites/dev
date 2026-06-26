@@ -19,3 +19,9 @@ Passes when fall distance is in range.
   "required_distance": 10
 }
 ```
+
+---
+
+<small>
+Source: <a href="https://docs.feed-the-beast.com/docs/marketplace/Addons/quests/api" target="_blank">FTB DOcs</a>
+</small>

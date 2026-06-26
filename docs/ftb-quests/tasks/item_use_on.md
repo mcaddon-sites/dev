@@ -21,3 +21,9 @@ Requires using the item on the target block.
   "block_id": "minecraft:copper_nugget"
 }
 ```
+
+---
+
+<small>
+Source: <a href="https://docs.feed-the-beast.com/docs/marketplace/Addons/quests/api" target="_blank">FTB DOcs</a>
+</small>

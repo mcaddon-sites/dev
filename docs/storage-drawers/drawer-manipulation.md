@@ -183,3 +183,9 @@ system.afterEvents.scriptEventReceive.subscribe((event) => {
 ```
 
 :::
+
+---
+
+<small>
+Source: <a href="https://docs.feed-the-beast.com/docs/marketplace/Addons/storage-drawers/API/drawer_manipulation" target="_blank">FTB DOcs</a>
+</small>

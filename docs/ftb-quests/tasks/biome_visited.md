@@ -19,3 +19,9 @@ Completes when entering a biome.
   "biome_id": "minecraft:plains"
 }
 ```
+
+---
+
+<small>
+Source: <a href="https://docs.feed-the-beast.com/docs/marketplace/Addons/quests/api" target="_blank">FTB DOcs</a>
+</small>

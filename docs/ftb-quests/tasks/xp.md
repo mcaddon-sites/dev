@@ -21,3 +21,9 @@ Checks total XP or levels.
   "uses_levels": true
 }
 ```
+
+---
+
+<small>
+Source: <a href="https://docs.feed-the-beast.com/docs/marketplace/Addons/quests/api" target="_blank">FTB DOcs</a>
+</small>

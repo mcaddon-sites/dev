@@ -23,3 +23,9 @@ Checks entity match, damage range, and held item if provided.
   "required_held_item": "minecraft:gunpowder"
 }
 ```
+
+---
+
+<small>
+Source: <a href="https://docs.feed-the-beast.com/docs/marketplace/Addons/quests/api" target="_blank">FTB DOcs</a>
+</small>

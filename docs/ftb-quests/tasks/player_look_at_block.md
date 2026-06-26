@@ -21,3 +21,9 @@ Player must be looking at the block; sneaking optional.
   "require_sneaking": false
 }
 ```
+
+---
+
+<small>
+Source: <a href="https://docs.feed-the-beast.com/docs/marketplace/Addons/quests/api" target="_blank">FTB DOcs</a>
+</small>

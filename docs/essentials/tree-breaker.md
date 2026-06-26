@@ -51,3 +51,9 @@ For a custom tree, you would add the following tags:
 - `ulkd_ess:tree_log_wiki:my_tree for wiki:my_log`
 - `ulkd_ess:tree_leaves_wiki:my_tree for wiki:my_leaves`
 - `ulkd_ess:tree_sapling_wiki:my_tree for wiki:my_sapling`
+
+---
+
+<small>
+Source: Unlinked Discord
+</small>

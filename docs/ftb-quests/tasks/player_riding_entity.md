@@ -20,3 +20,9 @@ Also verifies optional passengers by ID.
   "entity_id": "minecraft:horse"
 }
 ```
+
+---
+
+<small>
+Source: <a href="https://docs.feed-the-beast.com/docs/marketplace/Addons/quests/api" target="_blank">FTB DOcs</a>
+</small>

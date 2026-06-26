@@ -23,3 +23,9 @@ Checks projectile, block, and optional impact window.
   "required_hit_location": { "x": 0, "y": 0, "z": 0 }
 }
 ```
+
+---
+
+<small>
+Source: <a href="https://docs.feed-the-beast.com/docs/marketplace/Addons/quests/api" target="_blank">FTB DOcs</a>
+</small>
