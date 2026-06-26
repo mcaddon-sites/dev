@@ -23,3 +23,9 @@ Checks entity, optional item and Y-level.
   "required_y_level": { "min": 64 }
 }
 ```
+
+---
+
+<small>
+Source: <a href="https://docs.feed-the-beast.com/docs/marketplace/Addons/quests/api" target="_blank">FTB Docs</a>
+</small>

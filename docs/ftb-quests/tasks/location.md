@@ -23,3 +23,9 @@ At least one absolute pos or range is required.
   "absolute_position": { "x": 0, "y": 0, "z": 0 }
 }
 ```
+
+---
+
+<small>
+Source: <a href="https://docs.feed-the-beast.com/docs/marketplace/Addons/quests/api" target="_blank">FTB Docs</a>
+</small>

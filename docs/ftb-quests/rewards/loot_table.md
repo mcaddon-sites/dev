@@ -19,3 +19,9 @@ Runs `loot give @s loot <table>` for each entry.
   "loot_table": ["loot_tables/chests/igloo_chest"]
 }
 ```
+
+---
+
+<small>
+Source: <a href="https://docs.feed-the-beast.com/docs/marketplace/Addons/quests/api" target="_blank">FTB Docs</a>
+</small>

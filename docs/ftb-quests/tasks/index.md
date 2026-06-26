@@ -30,3 +30,9 @@ A list of task types for quests.
 | [`ftb_quest:step_on_block`](./step_on_block.md)                             | Requires stepping onto block, optionally with specific gear.  |
 | [`ftb_quest:visit_dimension`](./visit_dimension.md)                         | Fires on entering the dimension.                              |
 | [`ftb_quest:xp`](./xp.md)                                                   | Checks total XP or levels.                                    |
+
+---
+
+<small>
+Source: <a href="https://docs.feed-the-beast.com/docs/marketplace/Addons/quests/api" target="_blank">FTB Docs</a>
+</small>

@@ -21,3 +21,9 @@ Note the plural namespace ftb_quests.
   "required_held_item": "minecraft:paper"
 }
 ```
+
+---
+
+<small>
+Source: <a href="https://docs.feed-the-beast.com/docs/marketplace/Addons/quests/api" target="_blank">FTB Docs</a>
+</small>

@@ -26,3 +26,9 @@ For a custom ore, you would add the following tags:
 
 - `ulkd_ess:ore_wiki:my_ore` for `wiki:my_ore`
 - `ulkd_ess:ore_wiki:my_ore` for `wiki:deepslate_my_ore`
+
+---
+
+<small>
+Source: Unlinked Discord
+</small>

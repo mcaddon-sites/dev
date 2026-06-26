@@ -19,3 +19,9 @@ Counts item uses.
   "item_id": "minecraft:copper_sword"
 }
 ```
+
+---
+
+<small>
+Source: <a href="https://docs.feed-the-beast.com/docs/marketplace/Addons/quests/api" target="_blank">FTB Docs</a>
+</small>

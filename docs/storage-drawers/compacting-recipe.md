@@ -63,3 +63,9 @@ world.afterEvents.worldInitialize.subscribe((event) => {
 ```txt
 /scriptevent ftb_sd:register_compacting_recipe '{"topSlot":"minecraft:diamond_block","bottomSlot":"minecraft:diamond","bottomSlotCount":9}'
 ```
+
+---
+
+<small>
+Source: <a href="https://docs.feed-the-beast.com/docs/marketplace/Addons/storage-drawers/API/compacting_recipe" target="_blank">FTB Docs</a>
+</small>

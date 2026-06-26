@@ -43,3 +43,9 @@ Quest content is staged before it becomes live. A typical setup flow is:
 - Start with [Create Chapter](./create-chapter.md) to define the chapter shell.
 - Use [Add Quests](./add-quests.md) to attach quests, tasks, and rewards.
 - Browse [Task Types](./tasks/index.md) and [Reward Types](./rewards/index.md) while building quest payloads.
+
+---
+
+<small>
+Source: <a href="https://docs.feed-the-beast.com/docs/marketplace/Addons/quests/api" target="_blank">FTB Docs</a>
+</small>

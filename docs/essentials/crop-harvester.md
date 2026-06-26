@@ -54,3 +54,9 @@ For a custom crop, you would add the following tags:
 - `ulkd_ess:crop_state_name_wiki:growth` for `wiki:my_crop`
 - `ulkd_ess:crop_state_value_7` for `wiki:my_crop`
 - `ulkd_ess:crop_seed_wiki:my_crop` for `wiki:my_seeds`
+
+---
+
+<small>
+Source: Unlinked Discord
+</small>

@@ -21,3 +21,9 @@ Grants XP or levels.
   "is_levels": true
 }
 ```
+
+---
+
+<small>
+Source: <a href="https://docs.feed-the-beast.com/docs/marketplace/Addons/quests/api" target="_blank">FTB Docs</a>
+</small>
