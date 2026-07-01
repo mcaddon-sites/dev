@@ -8,6 +8,10 @@ export const nav: DefaultTheme.NavItem[] = [
     link: "https://github.com/Bedrock-OSS/add-on-registry",
   },
   {
+    text: "Contribute",
+    link: "./contribute",
+  },
+  {
     text: "Add-ons",
     items: addons.map(({ title, link }) => ({ text: title, link })),
   },
