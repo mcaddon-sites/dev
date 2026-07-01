@@ -63,10 +63,17 @@ You can help by:
 ## Code Examples
 
 - Keep examples as small as possible.
-- Make them copy-paste ready.
+- Make them copy-and-paste ready.
 - Use consistent formatting.
 - Explain any non-obvious behavior.
-- Include both JavaScript and TypeScript examples.
+- Include both JavaScript and TypeScript examples when practical.
+- Prefer TypeScript unless JavaScript is specifically being demonstrated.
+- Use modern ECMAScript syntax.
+- Focus each example on a single concept.
+
+## AI-generated Content
+
+AI tools may be used to assist with writing, but contributors are responsible for ensuring all content is accurate, up to date, and follows the style of mcaddon.dev. Always verify code examples before submitting them.
 
 ## Attribution
 
