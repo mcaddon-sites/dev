@@ -1,5 +1,8 @@
 ﻿# mcaddon.dev
 
+> [!IMPORTANT]
+> This site is not associated with or approved by Mojang Studios or Microsoft.
+
 Documentation for Minecraft Marketplace add-on integrations, including script events, compatibility tags, examples, and quick references for supported add-ons.
 
 ## Development
@@ -59,6 +62,6 @@ npm run check:docs
 4. Add images or icons under `docs/public/` when needed.
 5. Run `npm run check:docs`, `npm run lint`, and `npm run build`.
 
-## Disclaimer
+## Contribute
 
-This site is not associated with or approved by Mojang Studios or Microsoft.
+Merge any changes to the `develop` branch. The `main` brach is for production.
