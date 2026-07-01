@@ -65,4 +65,3 @@ npm run check:docs
 ## Contribute
 
 Merge any changes to the `develop` branch. The `main` brach is for production.
-
